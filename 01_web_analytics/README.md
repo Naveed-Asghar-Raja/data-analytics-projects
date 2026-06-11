@@ -16,7 +16,7 @@ Analysis of website traffic data using PostgreSQL and Power BI.
 - Power BI
 - 
 ## 📊 Dashboard Preview
-![Web Analytics Dashboard](Website Traffic Analysis.png)
+![Web Analytics Dashboard](web_analytics_dashboard.png)
 
 ## 📁 Files
 - `web_traffic_analysis.sql` — SQL queries for data analysis
