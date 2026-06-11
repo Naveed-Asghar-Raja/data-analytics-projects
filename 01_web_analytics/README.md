@@ -14,3 +14,10 @@ Analysis of website traffic data using PostgreSQL and Power BI.
 ## Tools
 - PostgreSQL (Supabase)
 - Power BI
+- 
+## 📊 Dashboard Preview
+![Web Analytics Dashboard](Website Traffic Analysis.png)
+
+## 📁 Files
+- `web_traffic_analysis.sql` — SQL queries for data analysis
+- `web_analytics_powerbi.pbix` — Power BI dashboard file
