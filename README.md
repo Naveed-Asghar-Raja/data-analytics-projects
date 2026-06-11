@@ -23,4 +23,4 @@ Marketing campaign performance analysis including ROI, ROAS and KPI dashboards.
 Construction cost control and procurement data analysis using Spanish public data.
 
 ## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/naveed-asghar-raja/?locale=es
+- **LinkedIn:** www.linkedin.com/in/naveed-asghar-raja
