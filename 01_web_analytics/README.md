@@ -6,6 +6,10 @@ Analysis of website traffic data using PostgreSQL and Power BI.
 - 15 rows of web traffic data
 - Source: Simulated data
 
+  ## 📂 Data Source
+Simulated dataset with 15 rows of web traffic data.
+Data stored in PostgreSQL (Supabase) — `web_analytics.website_traffic` table.
+
 ## Analysis
 - Total Sessions, Users and Conversions
 - Bounce Rate analysis
