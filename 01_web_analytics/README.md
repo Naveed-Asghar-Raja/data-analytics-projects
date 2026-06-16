@@ -5,8 +5,7 @@ Analysis of website traffic data using PostgreSQL and Power BI.
 ## Dataset
 - 15 rows of web traffic data
 - Source: Simulated data
-
-  ## 📂 Data Source
+ ## 📂 Data Source
 Simulated dataset with 15 rows of web traffic data.
 Data stored in PostgreSQL (Supabase) — `web_analytics.website_traffic` table.
 
