@@ -12,7 +12,7 @@ Data stored in PostgreSQL (Supabase) — `web_analytics.website_traffic` table.
 ## 📖 Project Story
 
 ### 🔴 Problem
-Bounce rate analysis revealed inconsistent visitor engagement, with paid social campaigns (Instagram and Facebook CPC ads) showing concerning bounce rates above 50% on mobile devices.
+Bounce rate analysis revealed inconsistent visitor engagement, with paid social campaigns (Instagram and Facebook ads CPC) showing concerning bounce rates above 50% on mobile devices.
 
 ### 🛠️ Action
 Analyzed bounce rate by traffic source, medium and device combination using SQL to isolate which specific paid campaigns were underperforming.
