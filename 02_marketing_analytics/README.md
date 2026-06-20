@@ -1,6 +1,6 @@
 # Marketing Analytics Project
 
-Marketing campaign performance analysis using PostgreSQL and Power BI.with supabase
+Marketing campaign performance analysis using PostgreSQL and Power BI.
 
 ## Dataset
 - 2500 rows of campaign data
