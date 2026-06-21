@@ -33,27 +33,6 @@ To understand why paid social campaigns (Instagram and Facebook) show higher bou
 
 ---
 
-## 📈 SQL Analysis
-
-### 🔹 Bounce Rate by Source & Device
-```sql
-SELECT 
-    source,
-    device,
-    COUNT(*) AS sessions,
-    ROUND(AVG(bounce_rate), 2) AS avg_bounce_rate
-FROM web_analytics.website_traffic
-GROUP BY source, device
-ORDER BY avg_bounce_rate DESC;
-
-🔹 Traffic Performance Overview
-SELECT 
-    source,
-    COUNT(*) AS total_sessions,
-    ROUND(AVG(conversion_rate), 2) AS avg_conversion_rate,
-    ROUND(AVG(bounce_rate), 2) AS avg_bounce_rate
-FROM web_analytics.website_traffic
-GROUP BY source;
 
 ## 📊 Key Findings
 
