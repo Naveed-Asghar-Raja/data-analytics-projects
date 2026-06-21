@@ -8,7 +8,7 @@ Data analytics projects focused on construction, marketing and web analytics.
 - **Visualization:** Power BI
 - **Programming:** Python
 - **Spreadsheets:** Excel
-- **Construction Software:** ISTRAM-ISPOL (BIM for Infrastructure)
+- **Construction Software:** ISTRAM-ISPOL (BIM for Infrastructure),Autocad
 - **Spanish Cost Database:** Presto, BEDEC/ITeC
 
 ## 📁 Projects
