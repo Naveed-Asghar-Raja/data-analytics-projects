@@ -55,42 +55,61 @@ SELECT
 FROM web_analytics.website_traffic
 GROUP BY source;
 
-##📊 Key Findings
-. 📱 Instagram Paid Traffic (Mobile) → 59% bounce rate
-. 📱 Facebook Paid Traffic (Mobile) → 54% bounce rate
-. 💻 Facebook Paid Traffic (Desktop) → 52% bounce rate
-. 🎯 Direct Traffic → 35–37% bounce rate (lowest, highest intent)
+## 📊 Key Findings
 
-##🔍 Insights
-. Paid social traffic performs significantly worse on mobile devices
-. Device type strongly influences bounce behavior
-. Direct traffic indicates stronger user intent and higher engagement
-. Potential mismatch between ad targeting and landing page experience
+- 📱 Instagram Paid Traffic (Mobile) → 59% bounce rate  
+- 📱 Facebook Paid Traffic (Mobile) → 54% bounce rate  
+- 💻 Facebook Paid Traffic (Desktop) → 52% bounce rate  
+- 🎯 Direct Traffic → 35–37% bounce rate (lowest, highest intent)  
 
-##🧪 Hypothesized Causes
-. ⏳ Slow page load times on mobile devices
-. 📱 Poor mobile responsiveness of landing pages
-. 🔄 Misalignment between ad messaging and landing page content
-. 🎯 Landing pages not aligned with user intent
+---
 
-##💡 Recommendation
+## 🔍 Insights
+
+- Paid social traffic performs significantly worse on mobile devices  
+- Device type strongly influences bounce behavior  
+- Direct traffic shows higher user intent and engagement  
+- There is a potential mismatch between ad targeting and landing page experience  
+
+---
+
+## 🧪 Hypothesized Causes
+
+- ⏳ Slow page load times on mobile devices  
+- 📱 Poor mobile responsiveness of landing pages  
+- 🔄 Misalignment between ad messaging and landing page content  
+- 🎯 Landing pages not aligned with user intent  
+
+---
+
+## 💡 Recommendation
 
 Perform a mobile UX + landing page audit for Instagram and Facebook paid campaigns to improve engagement and reduce bounce rates.
 
-##📊 Power BI Storytelling
+---
+
+## 📊 Power BI Storytelling
 
 The dashboard was designed to answer:
 
-Which traffic sources have the highest bounce rates?
-How does device type impact user engagement?
-Which channels drive the most high-intent users?
-##📌 Dashboard Highlights
--Bounce rate breakdown by source
--Device-level performance comparison
--Conversion vs bounce behavior analysis
--Paid vs organic traffic comparison
+- Which traffic sources have the highest bounce rates?
+- How does device type impact user engagement?
+- Which channels drive the most high-intent users?
 
-📸 Dashboard Preview
+---
+
+## 📌 Dashboard Highlights
+
+- Bounce rate breakdown by source  
+- Device-level performance comparison  
+- Conversion vs bounce behavior analysis  
+- Paid vs organic traffic comparison  
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](web_analytics_dashboard.png)
 
 
 # Web Analytics Project
