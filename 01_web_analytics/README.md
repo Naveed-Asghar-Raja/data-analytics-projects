@@ -71,9 +71,9 @@ Perform a mobile UX + landing page audit for Instagram and Facebook paid campaig
 
 The dashboard was designed to answer:
 
-- Which traffic sources have the highest bounce rates?
+- Which traffic source have the highest bounce rates?
 - How does device type impact user engagement?
-- Which channels drive the most high-intent users?
+- Which channel drive the most high-intent users?
 
 ---
 
