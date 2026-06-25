@@ -82,7 +82,7 @@ The dashboard was designed to answer:
 - Bounce rate breakdown by source  
 - Device-level performance comparison  
 - Conversion vs bounce behavior analysis  
-- Paid vs organic traffic comparison  
+- Paid vs organic traffic comparison
 
 ---
 
