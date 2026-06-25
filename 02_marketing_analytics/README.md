@@ -14,3 +14,5 @@ Marketing campaign performance analysis using PostgreSQL (Supabase) and Power BI
 ## Tools
 - PostgreSQL (Supabase)
 - Power BI
+
+## Skills
